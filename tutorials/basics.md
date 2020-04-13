@@ -9,7 +9,7 @@ It's not just for beginners, though. It has many advanced tools that are *great*
 ## Creating and Running
 Let's get started with the most basic thing: creating and running your code.
 
-Before all of this, make sure you have node.js installed. This can be done with `pacman -S npm` on Linux, or on the official website for others.
+Before all of this, make sure you have node.js installed. This can be done with `pacman -S npm` on Arch Linux, or on the official website for others.
 
 The first thing you ever learn in any language is how to log things to the console. To do that, you must use `console.log`. Here's how to create and run it:
 
