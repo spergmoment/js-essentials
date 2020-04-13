@@ -9,6 +9,8 @@ It's not just for beginners, though. It has many advanced tools that are *great*
 ## Creating and Running
 Let's get started with the most basic thing: creating and running your code.
 
+Before all of this, make sure you have node.js installed. This can be done with `pacman -S npm` on Linux, or on the official website for others.
+
 The first thing you ever learn in any language is how to log things to the console. To do that, you must use `console.log`. Here's how to create and run it:
 
 1. Create a file. Name it `index.js` or anything you want, as long as it has `.js` at the end. That tells it, "This is a JS file! Run it as Javascript."
@@ -20,7 +22,7 @@ console.log("This is logged!");
 3. Save the file.
 4. Open your terminal or command line (Powershell on Windows, Terminal on Mac, and whatever your desktop environment provided on Linux).
 5. Navigate to the file's folder. This can be done by typing `cd ` and then dragging your folder over to the terminal. (Some file explorers let you open folders in the terminal. If yours does, use it!)
-6. Type `index.js` or whatever you named your file.
+6. Type `node index.js`, replacing `index` with whatever your filename is.
 7. You should get the following output:
 ```js
 This is logged!
