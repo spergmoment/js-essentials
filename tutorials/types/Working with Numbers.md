@@ -1,3 +1,4 @@
+[Back to Main Page](https://spergmoment.github.io/js-essentials/tutorials/types)
 # Working with Numbers
 ## Operators
 Operators are a generally important part of JS. They are used often to change numbers.
