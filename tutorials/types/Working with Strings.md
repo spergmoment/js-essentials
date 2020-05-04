@@ -41,7 +41,7 @@ Returns:
 Question: is this An,Array?
 Answer: false
 ```
-When concatenated to strings, arrays join their elements together with a comma. This will be covered more in the "Working with Arrays" tutorial.
+When concatenated to strings, arrays join their elements together with a comma. For more info, after reading this, go to the [Working with Arrays](https://spergmoment.github.io/js-essentials/tutorials/types/Working%20with%20Arrays) page.
 
 ## Literals
 String literals are just like concatenation, but more efficient and nicer-looking. These are much more complex overall, but this will be the basics for now.
@@ -72,7 +72,7 @@ ${<Conditional> ? "If conditional is true, go here" : "Otherwise, go here."}
 ```
 They allow for cleaner code overall and remove the need for messy if statements everywhere!
 
-A practical example of this can be seen in my "Class Definition" demonstration.
+A practical example of this can be seen in my [Class Definition demonstration.](https://github.com/spergmoment/js-essentials/blob/master/demonstrations-old/class%20definition.js)
 
 One good thing to do could be having a random number and choosing between strings, like so:
 ```js
@@ -90,11 +90,9 @@ This is a string literal template. String literal templates are confusing!
 ```
 About 1/3 of the time.
 
-The random number may be confusing, but check out my Math object demonstration for more info.
+The random number may be confusing, but check out my [Math object demonstration](https://github.com/spergmoment/js-essentials/blob/master/demonstrations-old/math%20object.js) for more info.
 
 ## Practical Uses
 Strings have MANY practical uses. In fact, they're used just about everywhere.
 
 If you ever want to display text, use strings.
-
-Hopefully, this helps you understand how Strings work!
