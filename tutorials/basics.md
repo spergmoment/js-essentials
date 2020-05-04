@@ -152,7 +152,7 @@ Here are the types that are most important:
 - Object (Used for storing various data)
 - Array (Iterable list of things)
 
-These will be explained more later.
+These are (or will be) explained [here.](https://spergmoment.github.io/js-essentials/tutorials/types/)
 ## Conditional Statements
 The final major, required part of JS are the conditionals, like `if` and `else`.
 
