@@ -1,3 +1,4 @@
+[Back to Main Page](https://spergmoment.github.io/js-essentials/types)
 # JS Types
 Javascript has many different built-in types.
 
