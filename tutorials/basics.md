@@ -169,7 +169,7 @@ Let's look at them:
   * Strictly Equals. Compares the same way as ==, except it *also* checks the type, not just the value.
   * So, for example, `"2" == 2` is true, while `"2" === 2` is false, as `"2"` is a string and `2` is a number.
   * This will be used in most cases over ==, but == has its occasional uses.
-- >
+- \>
   * Greater than. Used for numbers.
 - <
   * Less than. Used for numbers.
