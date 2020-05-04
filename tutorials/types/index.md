@@ -1,3 +1,4 @@
+[Back to Tutorials Page](https://spergmoment.github.io/js-essentials/tutorials)
 # Types
 Welcome to the Types Tutorial!
 
