@@ -19,7 +19,7 @@ console.log(num2);
 ```
 Which returns `4`.
 
-There are many operators but many of them aren't as useful in basic code. Check the MDN docs for more info on these.
+There are many operators but many of them aren't as useful in basic code. Check the [MDN docs](https://developer.mozilla.org/en-US/docs/Web/javascript) for more info on these.
 ## Math
 The Math object is quite a useful one. It has tons of useful functions, like rounding and such, and even has constants like pi.
 
@@ -40,7 +40,7 @@ For every operator except for addition, using an operator on a number in a strin
 4hi
 NaN
 ```
-Despite being called "Not a Number," NaN's type is actually a number. You can see this with using the typeof operator on the built-in NaN value. (Refer to the type docs for more info on typeof and other types.)
+Despite being called "Not a Number," NaN's type is actually a number. You can see this with using the typeof operator on the built-in NaN value. (Refer to the [type docs](https://spergmoment.github.io/js-essentials/tutorials/types/Types) for more info on typeof and other types.)
 ```js
 console.log(typeof NaN);
 ```
