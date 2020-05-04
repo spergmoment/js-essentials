@@ -1,3 +1,4 @@
+[Back to Main Page](https://spergmoment.github.io/js-essentials/tutorials/types)
 # Strings
 Strings are possibly the most basic type you could think of: they display text. They are used everywhere, due to the importance of this.
 
