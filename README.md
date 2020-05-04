@@ -9,6 +9,6 @@ There are multiple things you may want to check out here:
 
 - [Some old Demonstrations](https://github.com/spergmoment/js-essentials/tree/master/demonstrations-old)
 - [A Few Custom Functions](https://github.com/spergmoment/js-essentials/tree/master/functions)
-- [The Main Tutorials!](https://spergmoment.github.io/js-essentials/tutorials/index.md)
+- [The Main Tutorials!](https://spergmoment.github.io/js-essentials/tutorials/index)
 
 Have fun, and remember to open up an issue to notify me of any mistakes, or make some suggestions.
