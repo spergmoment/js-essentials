@@ -1,4 +1,4 @@
-[Back to Main Page]((https://spergmoment.github.io/js-essentials/tutorials/types)
+[Back to Main Page](https://spergmoment.github.io/js-essentials/tutorials/types)
 # Arrays
 Arrays are similarly useful to strings and numbers. They can display lists of strings, numbers, objects, etc.
 
