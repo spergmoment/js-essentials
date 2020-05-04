@@ -23,7 +23,7 @@ There are many operators but many of them aren't as useful in basic code. Check 
 ## Math
 The Math object is quite a useful one. It has tons of useful functions, like rounding and such, and even has constants like pi.
 
-For all information regarding the Math object, refer to my Math object documentation.
+For all information regarding the Math object, refer to my [Math object documentation.](https://github.com/spergmoment/js-essentials/blob/master/demonstrations-old/math%20object.js)
 ## How Numbers Work with Other Types
 Numbers behave much differently when other types of objects are used. For example:
 ```js
@@ -48,4 +48,4 @@ Returns:
 ```js
 Number
 ```
-This, as well as info on Infinity, is all covered in my "NaN and Infinity" docs.
+This, as well as info on Infinity, is all covered in my [NaN and Infinity docs.](https://github.com/spergmoment/js-essentials/blob/master/demonstrations-old/NaN%20and%20Infinity.js)
